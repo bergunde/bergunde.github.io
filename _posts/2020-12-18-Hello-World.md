@@ -1,6 +1,8 @@
 ---
 layout: post
-title: You are in a restricted area
+categories: politica
+permalink: /:categories/:year/:month/:day/:title
+title: De las elecciones autonómicas y la psicología de masas
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
