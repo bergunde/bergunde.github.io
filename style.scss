@@ -32,6 +32,7 @@ body {
 
 .container > .post {
   position: relative;
+  padding-bottom: 100px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -283,6 +284,7 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
   bottom: 0;
+  position:fixed;
   width: 100%;
 }
 
