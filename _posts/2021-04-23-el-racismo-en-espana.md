@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 title: El racismo en España
 ---
 VOX es el partido que en la actualidad está dando voz al racismo y a la xenofobia en la sociedad. Lo más llamativo es que no está pasando desapercibido: tiene millones de votantes en todo el país.
-La pregunta que se hace todo el mundo es por qué no se ha legalizado ya un partido que incita al odio. Sin embargo, se ha de pensar más allá, entendiendo que una posible ilegalización no va a hacer desaparecer esos sentimientos racistas dentro de la ciudadanía. 
+La pregunta que se hace todo el mundo es por qué no se ha ilegalizado ya un partido que incita al odio. Sin embargo, se ha de pensar más allá, entendiendo que una posible ilegalización no va a hacer desaparecer esos sentimientos racistas dentro de la ciudadanía. 
 
 ¿Qué interés tiene el partido en culpar a los inmigrantes como método para captar votos? Se sabe que, a lo largo de la historia, la ideología racista ha sido contributiva de objetivos imperialistas. Es decir, la burguesía y la clase alta han escondido detrás una aporofobia encubierta para mantener sus privilegios. La estrategia para que estos sigan siendo mantenidos por las clases más bajas es sencilla: mediante falacias. Dividiendo a la ciudadanía. Haciéndoles pensar que las miserias de unos son culpa de los otros. En este caso, la diferencia entre ambos es la procedencia o el color de piel. No hay más que ver la incoherencia que hay detrás cuando la misma presidenta de VOX de la comunidad de Madrid, Rocío Monasterio, es hija de inmigrantes cubanos; o cuando su asesor, Bertrand Ndongo, es de origen camerunés. Y no, no provienen de familias pobres precisamente.
 
